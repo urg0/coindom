@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  color: rgb(187, 183, 159);
+  border: 2px solid gold;
+  border-radius: 0.1cm;
+  padding: 1rem;
+}
+
+.title {
+  color: gold;
+  text-align: center;
+  padding: 10px;
+  padding-top: 0;
+  border-bottom: 1px solid gold;
+}

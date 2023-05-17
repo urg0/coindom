@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10rem;
+  background-color: #000;
+  color: rgb(94, 151, 49);
+}
+
+.title {
+  padding: 3rem;
+}
+
+.message {
+  padding: 3rem;
+}
+
+.cat {
+  width: 20rem;
+  border-radius: 0.2cm;
+}

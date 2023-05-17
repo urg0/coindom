@@ -1,0 +1,116 @@
+.container {
+  display: flex;
+  background-color: rgb(30, 30, 55);
+  padding: 1rem;
+  padding-bottom: 0;
+}
+
+.nftContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  /* padding: 2rem; */
+  padding-bottom: 0;
+  margin: 1rem;
+  /* margin-bottom: 0; */
+  border: 1px solid gold;
+  border-radius: 0.2cm;
+  /* cursor: pointer; */
+}
+
+.nftContainer:hover {
+  background-color: rgb(41, 41, 74);
+  border: 1px solid salmon;
+}
+
+.infoContainer {
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  padding: 1rem;
+  color: rgb(203, 200, 195);
+}
+
+.nameContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.artistContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fav {
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
+/* .fav:hover {
+} */
+
+.crypto {
+  width: 3rem;
+  align-self: center;
+}
+.test {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.artist {
+  align-self: flex-start;
+  font-size: 0.7rem;
+  /* margin-right: 5rem; */
+}
+.snoop {
+  width: 15rem;
+  margin: 1rem;
+  border-radius: 0.1cm;
+  align-self: center;
+  cursor: pointer;
+}
+
+.title {
+  color: gold;
+  padding: 1rem 1rem 1.3rem 1rem;
+}
+.price {
+  padding-bottom: 1rem;
+}
+
+.buttonContainer {
+  padding: 1rem;
+}
+
+.add {
+  width: 8rem;
+  align-self: center;
+  background-color: rgb(30, 30, 55);
+  border: 1px solid gold;
+  color: rgb(77, 135, 135);
+  padding: 0.3rem;
+  border-radius: 0.3cm;
+  cursor: pointer;
+}
+
+.add:hover {
+  background-color: gold;
+}
+
+.priceInDollar {
+  text-align: center;
+  padding: 2rem;
+  padding-bottom: 0;
+}
+
+.buy {
+  width: 8rem;
+  align-self: center;
+  background-color: rgb(30, 30, 55);
+  border: 1px solid gold;
+  color: rgb(77, 135, 135);
+  padding: 0.3rem;
+  border-radius: 0.3cm;
+  cursor: not-allowed;
+}

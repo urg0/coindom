@@ -1,0 +1,67 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding-top: 5rem;
+  background-color: rgb(30, 32, 33);
+}
+
+.title {
+  color: rgb(193, 179, 243);
+  font-size: 3rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.getStarted {
+  align-self: center;
+  width: 7rem;
+  height: 3rem;
+  border-radius: 1cm;
+  background-color: rgb(30, 32, 33);
+  border: 1px solid gray;
+  color: rgb(193, 179, 243);
+  cursor: pointer;
+}
+
+.getStarted:hover {
+  background-color: #585757;
+}
+
+.imgContainer {
+  padding: 0 0 5rem 5rem;
+}
+
+.eminem {
+  width: 17rem;
+  border-radius: 0.2cm;
+  margin: 2rem;
+}
+.deGods {
+  width: 10rem;
+}
+
+.monalisa {
+  width: 20rem;
+  border-radius: 0.2cm;
+  margin-bottom: 4rem;
+}
+
+.moonbirds {
+  width: 8rem;
+  margin: 3rem;
+}
+.disco {
+  width: 14rem;
+  border-radius: 0.2cm;
+  margin: 2rem;
+  margin-right: 0;
+}
+.snoop {
+  width: 12rem;
+  border-radius: 0.2cm;
+}

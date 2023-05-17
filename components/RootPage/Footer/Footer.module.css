@@ -1,0 +1,75 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(30, 32, 33);
+  padding: 5rem;
+  padding-top: 1rem;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.appStoreContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(30, 32, 33);
+  text-align: right;
+  padding: 2rem;
+}
+.appStore {
+  width: 13rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+.appStore:hover {
+  transform: scale(1.03);
+}
+
+.bottom {
+  background-color: rgb(30, 32, 33);
+  text-align: center;
+}
+
+.bottom p {
+  color: rgb(121, 117, 117);
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(30, 32, 33);
+  color: rgb(121, 117, 117);
+  padding: 2rem;
+}
+
+.list {
+  list-style-type: none;
+  color: rgb(81, 80, 80);
+  font-size: 0.9rem;
+}
+
+.list li {
+  padding: 0.9rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 1.1rem;
+  color: rgb(117, 117, 117);
+  text-align: center;
+}
+
+.github {
+  color: rgb(76, 73, 73);
+}
+.github:hover {
+  color: rgb(67, 67, 112);
+}
+
+.urg {
+  margin-top: 1rem;
+  color: rgb(46, 45, 45);
+}

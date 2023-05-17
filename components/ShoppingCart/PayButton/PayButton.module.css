@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5rem;
+  border: 3px solid rgb(16, 90, 55);
+  border-radius: 3px;
+  background-color: rgb(30, 30, 55);
+}
+
+.cryptoContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.total {
+  display: flex;
+  align-items: flex-end;
+  color: rgb(16, 90, 55);
+  padding: 1rem;
+  border-bottom: 1px solid rgb(16, 90, 55);
+}
+
+.paymentMethod {
+  color: rgb(16, 90, 55);
+  padding: 1rem;
+  text-align: center;
+}
+
+.pay {
+  margin: 1rem;
+}
+
+.paymentContainer {
+  display: flex;
+}
+
+.currency {
+  width: 3.5rem;
+  padding: 15px;
+  padding-bottom: 0;
+}
+
+.apple {
+  width: 5rem;
+  margin: 2rem;
+  border-radius: 0.14cm;
+  align-self: center;
+  cursor: pointer;
+}
+
+.crypto {
+  cursor: pointer;
+  width: 2.3rem;
+  align-self: center;
+}
+.eth {
+  cursor: pointer;
+  width: 3.2rem;
+}
+
+.apple:hover,
+.crypto:hover,
+.eth:hover {
+  transform: scale(1.1);
+}

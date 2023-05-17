@@ -1,0 +1,37 @@
+.bgc {
+  background-color: rgb(30, 32, 33);
+  padding: 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10rem;
+}
+
+.gif {
+  display: inline-block;
+  width: 10rem;
+  /* margin-bottom: 3rem; */
+  border-radius: 0.2cm;
+}
+
+.searchBar {
+  width: 20rem;
+  height: 3rem;
+  border-radius: 0.5cm;
+  border: 2px solid rgb(75, 75, 75);
+  background-color: rgb(30, 32, 33);
+  padding: 1rem;
+}
+
+.listContainer {
+  display: flex;
+}
+
+.otherListsContainer {
+  display: flex;
+  flex-direction: column;
+}

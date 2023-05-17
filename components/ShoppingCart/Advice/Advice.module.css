@@ -1,0 +1,47 @@
+.container {
+  background-color: inherit;
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  padding: 2rem;
+  padding-left: 5rem;
+  color: gold;
+  font-size: 2rem;
+}
+
+.link {
+  text-decoration: none;
+}
+.seeAll {
+  display: inline-block;
+  color: salmon;
+  margin-right: 7rem;
+}
+
+.seeAll:hover {
+  color: rgb(164, 150, 69);
+}
+
+.adviceContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.adviceContainer img:nth-child(1) {
+  width: 12rem;
+}
+
+.adviceContainer p {
+  font-size: 12px;
+}
+.adviceContainer button {
+  font-size: 13px;
+  /*   width: 5rem;
+  height: 2rem; */
+}

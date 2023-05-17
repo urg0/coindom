@@ -1,0 +1,95 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(30, 32, 33);
+  /* background-color: rgb(109, 113, 209); */
+  padding: 10rem;
+  padding-left: 0;
+  /* background-image: url("/public/images/ethereum-accepted-here.png"); */
+}
+
+.imgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gold;
+  border-radius: 2px;
+}
+
+.emptyContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.empty {
+  color: rgb(203, 200, 195);
+  padding: 1rem;
+  padding-top: 2rem;
+  text-align: center;
+  /* font-size: 1.5rem; */
+}
+
+.startShopping {
+  color: rgb(203, 200, 195);
+  padding: 1rem;
+  font-size: 0.8rem;
+}
+
+.getStarted {
+  text-decoration: none;
+  text-align: center;
+  align-self: center;
+  width: 9rem;
+  height: 2rem;
+  margin-bottom: 1rem;
+  border-radius: 1cm;
+  background-color: rgb(30, 32, 33);
+  border: 1px solid gray;
+  color: rgb(193, 179, 243);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.getStarted:hover {
+  background-color: gold;
+}
+
+.title {
+  background-color: rgb(30, 30, 55);
+  padding: 1rem;
+  padding-bottom: 0;
+  color: rgb(16, 90, 55);
+  font-size: 1rem;
+}
+
+.card {
+  width: 5rem;
+  border-radius: 2px;
+  /* margin-right: 1rem; */
+}
+
+.wallet {
+  width: 25rem;
+}
+
+.paymentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ethAccepted {
+  border-radius: 0.3cm;
+  width: 20rem;
+  /*  -webkit-transform: rotate(306deg);
+  -moz-transform: rotate(306deg);
+  -o-transform: rotate(306deg);
+  -ms-transform: rotate(306deg);
+  transform: rotate(306deg); */
+}

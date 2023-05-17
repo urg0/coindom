@@ -1,0 +1,26 @@
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  padding: 2rem;
+}
+
+.pages {
+  background-color: rgb(30, 32, 33);
+  background-color: rgb(30, 30, 55);
+  color: rgb(216, 213, 207);
+  color: gold;
+  padding: 10px;
+  border-radius: 0.2cm;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.pages:hover {
+  background-color: rgb(57, 57, 57);
+}
+
+.active {
+  color: blanchedalmond;
+}

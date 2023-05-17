@@ -1,0 +1,131 @@
+.container {
+  display: flex;
+  background-color: rgb(30, 30, 55);
+  padding: 1rem;
+  border-bottom: 1px solid gold;
+}
+
+.nftContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem;
+  border: 1px solid gold;
+  border-radius: 0.2cm;
+}
+
+.nftContainer:hover {
+  background-color: rgb(41, 41, 74);
+}
+
+.nftContainer:hover .snoop {
+  transform: scale(1.02);
+}
+
+.infoContainer {
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  padding: 1rem;
+  color: rgb(203, 200, 195);
+}
+
+.nameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.artistContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.favContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.trash {
+  background-color: rgb(30, 30, 55);
+  cursor: pointer;
+}
+.trash:hover {
+}
+
+.fav {
+  align-self: flex-end;
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+/* .fav:hover {
+  } */
+
+.crypto {
+  width: 2.8rem;
+  align-self: center;
+  margin-bottom: 10px;
+}
+
+.priceImg {
+  width: 1.1rem;
+}
+
+.total {
+  margin-top: 10px;
+  color: rgb(16, 90, 55);
+}
+
+.artist {
+  text-align: center;
+  color: antiquewhite;
+  font-size: 0.6rem;
+  /* margin-right: 5rem; */
+}
+.snoop {
+  width: 6rem;
+  margin: 1rem;
+  border-radius: 0.1cm;
+  align-self: center;
+}
+
+.title {
+  color: gold;
+  padding: 1rem 1rem 1.3rem 1rem;
+  font-size: 0.7rem;
+}
+.price {
+  padding-bottom: 1rem;
+}
+
+.imgContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.buttonContainer {
+  padding: 1rem;
+}
+
+.add {
+  width: 8rem;
+  align-self: center;
+  background-color: rgb(30, 30, 55);
+  border: 1px solid gold;
+  color: rgb(77, 135, 135);
+  padding: 0.3rem;
+  border-radius: 0.3cm;
+  cursor: pointer;
+}
+
+.add:hover {
+  background-color: gold;
+}
+
+.dollarPrice {
+  text-align: center;
+  margin-top: 1.5rem;
+  color: rgb(16, 90, 55);
+}

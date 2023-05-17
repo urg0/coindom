@@ -1,0 +1,49 @@
+.container {
+  background-color: rgb(30, 30, 55);
+  padding: 5rem;
+}
+
+.nftListContainer {
+  display: flex;
+  padding: 1rem;
+  padding-top: 0;
+}
+
+.title {
+  color: gold;
+  font-size: 2rem;
+  text-align: left;
+  padding: 4rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid gold;
+}
+
+.nftGrid {
+  padding-left: 2rem;
+  display: grid;
+  grid-template-columns: 27rem 27rem 27rem;
+  /* grid-template-columns: 24rem 24rem 24rem 24rem; */
+  border-bottom: 1px solid gold;
+  /* grid-template-rows: 50rem 50rem 50rem; */
+}
+
+.categories {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+
+.sort {
+  text-align: center;
+  background-color: gold;
+  border-radius: 0.1cm;
+  width: 10rem;
+  height: 2rem;
+  color: rgb(30, 30, 55);
+  font-size: 0.8rem;
+}
+
+.add {
+  width: 10rem;
+  height: 2rem;
+}

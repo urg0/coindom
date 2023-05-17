@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border-bottom: 1px solid gold;
+}
+
+.container label {
+  padding: 1rem;
+  cursor: pointer;
+  font-size: 0.7rem;
+}
+.container label:hover {
+  color: gold;
+}
+
+.checkbox {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.title {
+  color: gold;
+}
+
+/* .checkbox::before {
+  padding: 1px;
+  position: relative;
+  display: block;
+  border: 1px solid gold;
+
+  background-color: rgb(30, 30, 55);
+}
+
+.checkbox::after {
+  position: relative;
+  display: block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #b3b3b3 #dcddde #dcddde #b3b3b3;
+  background-image: linear-gradient(135deg, #b1b6be 0%, #fff 100%);
+}
+ */
+.categories {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+
+.sort {
+  display: inline-block;
+  text-align: center;
+  align-self: flex-end;
+  background-color: gold;
+  border-radius: 0.1cm;
+  width: 10rem;
+  height: 2rem;
+  color: rgb(30, 30, 55);
+  font-size: 0.8rem;
+}
+.selectCurrency {
+  text-align: center;
+  background-color: rgb(187, 183, 159);
+  border-radius: 0.1cm;
+  width: 10rem;
+  height: 2rem;
+  color: rgb(30, 30, 55);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.clearFilters {
+  display: inline-block;
+  border: 1px solid gold;
+  background-color: rgb(187, 183, 159);
+  color: rgb(30, 30, 55);
+  font-size: 0.8rem;
+  padding: 10px;
+  border-radius: 0.1cm;
+  cursor: pointer;
+}
+.clearFilters:hover {
+  background-color: rgb(172, 163, 115);
+}

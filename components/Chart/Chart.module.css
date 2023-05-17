@@ -1,0 +1,15 @@
+.chart {
+  width: 50rem;
+  margin-left: 20rem;
+}
+
+.selectCurrency {
+  text-align: center;
+  background-color: rgb(193, 179, 243);
+  border-radius: 0.1cm;
+  width: 10rem;
+  height: 2rem;
+  color: rgb(30, 30, 55);
+  font-size: 0.8rem;
+  cursor: pointer;
+}

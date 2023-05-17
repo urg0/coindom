@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 10rem;
+  padding-top: 0;
+  padding-bottom: 5rem;
+  background: linear-gradient(45deg, rgb(33, 36, 40), rgb(38, 46, 48));
+}
+
+/* 
+#000000,
+#191919,
+#c8c3bc,
+#4c4c4c,
+#666,
+#7f7f7f,
+rgb(38,46,48),
+    rgba(0, 0, 0, 0.24),
+    #b7b1a8,
+    #031f13,
+    #063f27,
+    #095e3a,
+    #0c7e4e,
+    #109e62,
+    #3fb181,
+    #327b64, */
+
+.title {
+  color: rgb(203, 200, 195);
+  background: inherit;
+
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.text {
+  color: rgb(126, 126, 126);
+  font-size: 1.3rem;
+}
+.lego {
+  width: 35rem;
+}

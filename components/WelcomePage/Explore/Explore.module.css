@@ -1,0 +1,63 @@
+.exploreEth {
+  background-color: rgb(30, 32, 33);
+  color: rgb(221, 212, 212);
+  font-size: 2rem;
+  padding: 3rem;
+}
+
+.container {
+  display: flex;
+  background-color: rgb(30, 32, 33);
+  gap: 1rem;
+  padding: 5rem;
+  padding-top: 0;
+}
+
+.exploreContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-right: 10px solid rgb(226, 204, 193);
+  border-bottom: 10px solid rgb(203, 250, 245);
+  border-top: 10px solid rgb(146, 169, 237);
+  border-left: 10px solid rgb(193, 179, 243);
+  border-radius: 0.1cm;
+  color: rgb(221, 212, 212);
+  padding: 2rem;
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.exploreContainer:hover {
+  border-top: 10px solid rgb(226, 204, 193);
+  border-left: 10px solid rgb(203, 250, 245);
+  border-right: 10px solid rgb(146, 169, 237);
+  border-bottom: 10px solid rgb(193, 179, 243);
+}
+
+.merge {
+  width: 16rem;
+  border-bottom: 2px solid #ffffff;
+  background-color: aquamarine;
+}
+.enterprise {
+  background-color: aquamarine;
+  width: 30rem;
+  border-bottom: 2px solid #ffffff;
+}
+.eth {
+  background-color: aquamarine;
+  width: 20rem;
+  border-bottom: 2px solid #ffffff;
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 1.4rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+.text {
+  font-size: 0.8rem;
+}

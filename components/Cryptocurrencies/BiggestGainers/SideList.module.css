@@ -1,0 +1,20 @@
+.container {
+  display: inline-block;
+  flex-direction: column;
+  border: 0.01cm solid rgb(216, 213, 207);
+  border-left: 3px solid rgb(226, 204, 193);
+  border-top: 3px solid rgb(203, 250, 245);
+  border-right: 3px solid rgb(146, 169, 237);
+  border-bottom: 3px solid rgb(193, 179, 243);
+  border-radius: 0.1cm;
+}
+
+.title {
+  display: inline-block;
+  align-self: center;
+  font-size: 1.2rem;
+  padding: 1.5rem;
+  padding-bottom: 1rem;
+  color: rgb(216, 213, 207);
+  border-radius: 0.2cm;
+}

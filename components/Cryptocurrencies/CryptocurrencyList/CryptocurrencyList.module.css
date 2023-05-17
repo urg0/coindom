@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.cryptocurrenciesContainer {
+  display: flex;
+  align-items: stretch; /* default */
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 3rem 5rem 7rem 2rem;
+  flex: 1.8;
+  background-color: rgb(30, 32, 33);
+  color: rgb(203, 200, 195);
+}
+
+.infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 0.01cm solid rgb(216, 213, 207);
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  /* border: 0.01cm solid rgb(216, 213, 207); */
+  background-color: rgb(30, 30, 55);
+}
+
+.nameContainer {
+  display: flex;
+  justify-content: space-between;
+  border-right: 0.1cm solid rgb(216, 213, 207);
+  padding: 0.5rem;
+  padding-right: 3rem;
+  width: 15rem;
+}
+
+.name {
+  margin-right: 5rem;
+}
+.cryptoName {
+  flex: 1.8;
+  font-size: 1rem;
+  padding: 1rem;
+  font-weight: lighter;
+}
+
+.cryptoLongName {
+  font-size: 0.8rem;
+  padding: 1.1rem;
+  padding-right: 0;
+  color: rgb(133, 133, 133);
+}
+
+.price {
+  margin-right: 2rem;
+}
+.title {
+  align-self: center;
+  font-size: 2.5rem;
+  margin: 30px;
+  padding: 0.6cm;
+  color: rgb(216, 213, 207);
+  border-radius: 0.2cm;
+  border-right: 10px solid rgb(226, 204, 193);
+  border-bottom: 10px solid rgb(203, 250, 245);
+  border-top: 10px solid rgb(146, 169, 237);
+  border-left: 10px solid rgb(193, 179, 243);
+}
+
+.logo {
+  width: 2.3rem;
+  /*   height: 2.3rem; */
+  align-self: center;
+}
+
+.lastPrice {
+  padding: 0.7rem;
+  font-size: 0.8rem;
+  color: rgb(87, 87, 145);
+  flex: 0.9;
+}
+
+.volumeP {
+  padding: 0.7rem;
+  font-size: 0.8rem;
+  color: rgb(133, 133, 133);
+  flex: 0.9;
+}
+
+.red {
+  padding: 0.7rem;
+  font-size: 0.8rem;
+  color: rgb(162, 40, 40);
+  flex: 0.9;
+}
+.green {
+  padding: 0.7rem;
+  font-size: 0.8rem;
+  color: rgb(93, 162, 40);
+  flex: 0.9;
+}
+.marketCap {
+  padding: 0.7rem;
+  font-size: 0.8rem;
+  color: rgb(133, 133, 133);
+}
+
+.searchBar {
+  width: 20rem;
+  height: 3rem;
+  border-radius: 0.5cm;
+  border: 2px solid rgb(75, 75, 75);
+  background-color: rgb(30, 32, 33);
+  padding: 1rem;
+  color: wheat;
+  align-self: flex-end;
+  margin-right: 6rem;
+  margin-bottom: 3rem;
+}
