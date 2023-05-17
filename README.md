@@ -87,7 +87,9 @@ Simple project that you can track the changes on crpytocurrencies price and buy 
 <img width="1680" alt="coindom1" src="https://github.com/urg0/coindom/assets/81859377/8aee74f6-302f-44bc-a5d6-e0f94f152285">
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+My sole purpose in this project is to practice. I am really new in the development industry and i wanted to try something new. I just started working on it, have a long way ahead. 
+In some parts, i had to use dummy data because of the lack of API's data. (still student, used a free API) I will try to develop the project whenever i have time. That all.
+These are some snapshots from the project:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
