@@ -91,6 +91,31 @@ My sole purpose in this project is to practice. I am really new in the developme
 In some parts, i had to use dummy data because of the lack of API's data. (still student, used a free API) I will try to develop the project whenever i have time. That all.
 These are some snapshots from the project:
 
+
+Welcome Page
+![image](https://github.com/urg0/coindom/assets/81859377/077e96e8-b183-4cc9-943d-11cf2d514180)
+
+![image](https://github.com/urg0/coindom/assets/81859377/0c36f84f-d9ad-4d05-8580-36ca8beb9f15)
+![image](https://github.com/urg0/coindom/assets/81859377/50fd8684-40bc-4201-a7e6-87f8841fac08)
+![image](https://github.com/urg0/coindom/assets/81859377/8d3f7ea6-d21d-40fe-9898-678a5765d6ea)
+![image](https://github.com/urg0/coindom/assets/81859377/eb79237a-739f-4cd7-93b3-3bf47e75a0d0)
+
+Cryptocurrencies:
+![image](https://github.com/urg0/coindom/assets/81859377/d6242aac-a972-4262-a08e-12c0c216da09)
+![image](https://github.com/urg0/coindom/assets/81859377/514d4175-8924-4e2c-9748-42fbe9986258)
+
+NFT Page:
+![image](https://github.com/urg0/coindom/assets/81859377/ec8903a4-88c6-483a-894c-1df072c3216b)
+![image](https://github.com/urg0/coindom/assets/81859377/5408e14e-25ca-4016-9457-988ba849163c)
+![image](https://github.com/urg0/coindom/assets/81859377/e6f42915-005a-4fe7-9ef3-8c64f01a73e6)
+
+
+
+
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
