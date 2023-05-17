@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="(https://github.com/urg0/coindom/assets/81859377/556f0b8a-28ce-42e7-bb6e-3f73e8e494e9)" alt="Logo" width="80" height="80">
+    <img src="https://github.com/urg0/coindom/assets/81859377/556f0b8a-28ce-42e7-bb6e-3f73e8e494e9" alt="Logo" width="80" height="80">
 
   </a>
 
