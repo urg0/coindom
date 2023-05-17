@@ -53,7 +53,7 @@ const NftBox = ({
           </div>
 
           <div className={styles.buttonContainer}>
-            <button disabled="true" className={styles.add} onClick={addNft}>
+            <button className={styles.add} onClick={addNft}>
               ADD
             </button>
             <button className={styles.buy}>BUY</button>
