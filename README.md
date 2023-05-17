@@ -17,9 +17,9 @@ Simple project that you can track the changes on crpytocurrencies price and buy 
     <br />
     <a href="https://github.com/urg0/coindom">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/urg0/coindom/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/urg0/coindom/issues">Request Feature</a>
   </p>
 </div>
 
