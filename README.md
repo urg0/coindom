@@ -60,7 +60,7 @@ Simple project that you can track the changes on crpytocurrencies price and buy 
 
 
 My sole purpose in this project is to practice. I am really new in the development industry and i wanted to try something new. I just started working on it, have a long way ahead. 
-In some parts, i had to use dummy data because of the lack of API's data. (still student, used a free API) I will try to develop the project whenever i have time. That all.
+In some parts, i had to use dummy data because of the lack of API's data. (still student, used a free API) I will try to develop the project whenever i have time. Thats all.
 These are some snapshots from the project:
 
 
